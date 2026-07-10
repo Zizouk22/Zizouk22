@@ -1,13 +1,13 @@
-<h1 align="center">☣&nbsp; Zizouk22 &nbsp;☣</h1>
+<h1 align="center">☣&nbsp; Zizouk22 &nbsp;·&nbsp; <code>G_Xor</code> &nbsp;☣</h1>
 
 <p align="center">
-  <b>Security Researcher &nbsp;·&nbsp; DevSecOps &nbsp;·&nbsp; AI-native Offensive &amp; Defensive Tooling</b>
+  <b>Security Researcher &nbsp;·&nbsp; Pentester &nbsp;·&nbsp; AI-native Offensive &amp; Defensive Tooling</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-offensive%20security-E4405F?style=for-the-badge&logo=hackthebox&logoColor=white">
   <img src="https://img.shields.io/badge/AI-native%20security-4A3C5C?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/DevSecOps-0F1010?style=for-the-badge&logo=gitlab&logoColor=orange">
+  <img src="https://img.shields.io/badge/CTF-player-0F1010?style=for-the-badge&logo=flag&logoColor=white">
 </p>
 
 ---
@@ -16,16 +16,17 @@
 
 ```bash
 $ whoami
-Security researcher building AI-native tooling for offensive & defensive security.
+Security researcher & pentester. I build AI-native tooling to
+automate the offense and industrialise the defense.
 
 $ cat ~/.interests
 - Autonomous pentesting agents & AI-driven security
-- Red team tooling, exploit research & OSINT
-- DevSecOps at scale: CI/CD security, SOC, hardening
-- Flipper Zero & hardware hacking
+- Exploit research, red teaming & OSINT
+- CTF — I never turn down a good challenge
+- Web / hardware hacking (Flipper Zero included)
 
-$ cat ~/.philosophy
-"Automate the offense, industrialise the defense, verify everything."
+$ cat ~/.offhours
+guitar 🎸 · cooking new recipes 😅 · online-safety awareness
 ```
 
 ---
@@ -54,13 +55,13 @@ $ cat ~/.philosophy
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Ghidra-FF4040?style=flat-square&logo=ghidra&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square&logo=wazuh&logoColor=white">
-  <img src="https://img.shields.io/badge/Teleport-512FC4?style=flat-square&logo=goteleport&logoColor=white">
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white">
-  <img src="https://img.shields.io/badge/Suricata-C00000?style=flat-square&logo=suricata&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
 
 ---
@@ -77,5 +78,7 @@ $ cat ~/.philosophy
 </p>
 
 ---
+
+<p align="center"><i>"Security is more than a job — it's a hunt for skills. Every problem is a puzzle, every vulnerability a key."</i></p>
 
 <p align="center"><sub>⚠ Everything here is for research, education & authorized testing only. ⚠</sub></p>
