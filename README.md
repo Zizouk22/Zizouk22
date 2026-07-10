@@ -17,7 +17,7 @@
 ```bash
 $ whoami
 Vulnerability tester & bug bounty hunter — 3+ years in offensive security.
-I build AI-native tooling to automate the offense and industrialise the defense.
+I build tooling to automate the offense and industrialise the defense.
 
 $ cat ~/.interests
 - Bug bounty, exploit research & web exploitation
